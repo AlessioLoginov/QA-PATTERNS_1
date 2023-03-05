@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ift87xw4sf9vdjlt/branch/main?svg=true)](https://ci.appveyor.com/project/AlessioLoginov/qa-patterns-1/branch/main)
